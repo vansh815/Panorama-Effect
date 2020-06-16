@@ -1,6 +1,6 @@
 # Warping, Matching, Stitching, Blending
 
-User Name : hrajash, jp109, mmanurn, vanshah
+
 
 ## Part 1: Image matching and clustering
 
