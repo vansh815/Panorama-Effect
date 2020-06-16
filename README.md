@@ -1,4 +1,4 @@
-# Assignment 2 : Warping, Matching, Stitching, Blending
+# Warping, Matching, Stitching, Blending
 
 User Name : hrajash, jp109, mmanurn, vanshah
 
